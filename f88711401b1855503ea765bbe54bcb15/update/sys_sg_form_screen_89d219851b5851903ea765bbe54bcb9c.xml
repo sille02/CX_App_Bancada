@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-List1">41d219851b5851903ea765bbe54bcb99</icon>
+        <item_view/>
+        <name>CX OS 001 Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 10:45:43</sys_created_on>
+        <sys_id>89d219851b5851903ea765bbe54bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CX OS 001 Form Screen</sys_name>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>sys_sg_form_screen_89d219851b5851903ea765bbe54bcb9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 10:45:43</sys_updated_on>
+        <table>x_snc_cx_tarefa_de_cx_os</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="CX OS 001 Detail Screen View Config">4dd2d5851b5851903ea765bbe54bcbed</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=89d219851b5851903ea765bbe54bcb9c"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>89d219851b5851903ea765bbe54bcb9c</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 10:45:43</sys_created_on>
+        <sys_id>c5d219851b5851903ea765bbe54bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 10:45:43</sys_updated_on>
+        <tablename>sys_sg_form_screen</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

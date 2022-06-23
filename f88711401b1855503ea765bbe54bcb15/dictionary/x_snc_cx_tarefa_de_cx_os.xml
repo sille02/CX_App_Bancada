@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" max_length="40" name="x_snc_cx_tarefa_de_cx_os" sizeclass="4" type="collection">
         <element attributes="encode_utf8=false" label="Aprovador" max_length="32" name="aprovador" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Data opcional" max_length="40" name="data_opcional" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Departamento" max_length="40" name="departamento" type="string"/>
         <element label="Encaminhar para aprovação" max_length="40" name="encaminhar_aprovao" type="boolean"/>
         <element choice="3" default="Novo" label="Etapa" max_length="40" name="etapa" type="choice">

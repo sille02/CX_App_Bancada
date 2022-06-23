@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_cx_tarefa_de_cx_os</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="CX OS 001 Form Screen">89d219851b5851903ea765bbe54bcb9c</embedded_screen>
+        <item_view/>
+        <name>CX OS 001 Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 10:45:43</sys_created_on>
+        <sys_id>09d219851b5851903ea765bbe54bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CX OS 001 Form Screen Master Item</sys_name>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>sys_sg_master_item_09d219851b5851903ea765bbe54bcbd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 10:45:43</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="CX OS 001 List Screen View Config">b4d2d5851b5851903ea765bbe54bcb01</view_config>
+    </sys_sg_master_item>
+</record_update>

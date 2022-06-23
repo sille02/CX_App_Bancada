@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 10:45:43</sys_created_on>
+        <sys_id>b8d2d5851b5851903ea765bbe54bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_b8d2d5851b5851903ea765bbe54bcba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 10:45:43</sys_updated_on>
+        <translated_value/>
+        <value>priority</value>
+        <view_config_element display_value="priority-FieldLabel">7cd2d5851b5851903ea765bbe54bcb9f</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8d2d5851b5851903ea765bbe54bcba1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b8d2d5851b5851903ea765bbe54bcba1</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 10:45:43</sys_created_on>
+        <sys_id>70d2d5851b5851903ea765bbe54bcba2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 10:45:43</sys_updated_on>
+        <tablename>sys_sg_view_config_element_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
