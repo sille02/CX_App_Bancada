@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="CX OS" language="en" table="x_snc_cx_tarefa_de_cx_os">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CX OS</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <plural>CX OSs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:33:44</sys_created_on>
+            <sys_id>e6d791801b1855503ea765bbe54bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CX OS</sys_name>
+            <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cx_tarefa_de_cx_os__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:33:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (CX OS)">05f755801b1855503ea765bbe54bcbb6</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (CX OS)</name>
+        <order/>
+        <parent>4df755801b1855503ea765bbe54bcb92</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:34:11</sys_created_on>
+        <sys_id>cdf755801b1855503ea765bbe54bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (CX OS)</sys_name>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cdf755801b1855503ea765bbe54bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 08:34:11</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cdf755801b1855503ea765bbe54bcbbe"/>
+</record_update>

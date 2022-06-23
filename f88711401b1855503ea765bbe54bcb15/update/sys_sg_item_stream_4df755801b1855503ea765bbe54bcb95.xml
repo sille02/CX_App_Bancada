@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="CX Tarefa de OS CX OS">30f755801b1855503ea765bbe54bcb3b</data_item>
+        <interleaved_field/>
+        <name>CX OS Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:34:11</sys_created_on>
+        <sys_id>4df755801b1855503ea765bbe54bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CX OS Item Stream</sys_name>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>sys_sg_item_stream_4df755801b1855503ea765bbe54bcb95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 08:34:11</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

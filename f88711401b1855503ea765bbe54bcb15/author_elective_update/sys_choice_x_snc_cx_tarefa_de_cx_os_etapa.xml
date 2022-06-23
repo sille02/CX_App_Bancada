@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="etapa" table="x_snc_cx_tarefa_de_cx_os" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>etapa</element>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:36:18</sys_created_on>
+            <sys_id>807819c01b1855503ea765bbe54bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>etapa</sys_name>
+            <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cx_tarefa_de_cx_os_etapa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:36:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Novo</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:36:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c68d9c01b1855503ea765bbe54bcb15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:36:18</sys_updated_on>
+            <value>Novo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Novo</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:36:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d78dd801b1855503ea765bbe54bcb07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:36:24</sys_updated_on>
+            <value>Novo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requisitado</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6288ddc01b1855503ea765bbe54bcbed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:36:45</sys_updated_on>
+            <value>Requisitado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requisitado</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:36:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6788ddc01b1855503ea765bbe54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:36:49</sys_updated_on>
+            <value>Requisitado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aguardando Aprovação</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:37:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cb891041b1855503ea765bbe54bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:37:26</sys_updated_on>
+            <value>Aguardando Aprovacao</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aguardando Aprovação</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:37:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8eb819041b1855503ea765bbe54bcbf1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:37:32</sys_updated_on>
+            <value>Aguardando Aprovacao</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agendado</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4d8d9c01b1855503ea765bbe54bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:00</sys_updated_on>
+            <value>Agendado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agendado</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6d8dd041b1855503ea765bbe54bcbb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:04</sys_updated_on>
+            <value>Agendado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Registrado no Sistema</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10f811441b1855503ea765bbe54bcb3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:31</sys_updated_on>
+            <value>Registrado no Sistema</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Registrado no Sistema</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9be811041b1855503ea765bbe54bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:27</sys_updated_on>
+            <value>Registrado no Sistema</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Concluído</label>
+            <language>en</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>610991441b1855503ea765bbe54bcb49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:52</sys_updated_on>
+            <value>Concluido</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Concluído</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 08:38:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e80999041b1855503ea765bbe54bcbee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 08:38:47</sys_updated_on>
+            <value>Concluido</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

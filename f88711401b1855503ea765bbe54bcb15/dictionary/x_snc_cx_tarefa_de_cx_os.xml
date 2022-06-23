@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" max_length="40" name="x_snc_cx_tarefa_de_cx_os" sizeclass="4" type="collection">
+        <element attributes="encode_utf8=false" label="Aprovador" max_length="32" name="aprovador" reference="sys_user" type="reference"/>
+        <element label="Encaminhar para aprovação" max_length="40" name="encaminhar_aprovao" type="boolean"/>
+        <element choice="3" default="Novo" label="Etapa" max_length="40" name="etapa" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Novo" sequence="10" value="Novo"/>
+                <element inactive_on_update="false" label="Novo" language="pb" sequence="10" value="Novo"/>
+                <element inactive_on_update="false" label="Requisitado" language="pb" sequence="20" value="Requisitado"/>
+                <element inactive_on_update="false" label="Requisitado" sequence="20" value="Requisitado"/>
+                <element inactive_on_update="false" label="Aguardando Aprovação" sequence="30" value="Aguardando Aprovacao"/>
+                <element inactive_on_update="false" label="Aguardando Aprovação" language="pb" sequence="30" value="Aguardando Aprovacao"/>
+                <element inactive_on_update="false" label="Agendado" language="pb" sequence="40" value="Agendado"/>
+                <element inactive_on_update="false" label="Agendado" sequence="40" value="Agendado"/>
+                <element inactive_on_update="false" label="Registrado no Sistema" language="pb" sequence="50" value="Registrado no Sistema"/>
+                <element inactive_on_update="false" label="Registrado no Sistema" sequence="50" value="Registrado no Sistema"/>
+                <element inactive_on_update="false" label="Concluído" sequence="60" value="Concluido"/>
+                <element inactive_on_update="false" label="Concluído" language="pb" sequence="60" value="Concluido"/>
+            </choice>
+        </element>
+    </element>
+</database>

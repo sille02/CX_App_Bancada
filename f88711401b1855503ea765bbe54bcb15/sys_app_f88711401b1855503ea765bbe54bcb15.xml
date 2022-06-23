@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>9987dd001b1855503ea765bbe54bcb58</logo>
+        <menu/>
+        <name>CX Tarefa de OS</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_cx_tarefa_de</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_cx_tarefa_de</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:32:16</sys_created_on>
+        <sys_id>f88711401b1855503ea765bbe54bcb15</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 08:32:17</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>caixa-logo.svg</file_name>
+        <hash>c77a2e58b0fc44dbdf9deabcb46389fc506f8366433bf69e1faa3a21c78f2f4e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>17478</size_bytes>
+        <size_compressed>3024</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:32:17</sys_created_on>
+        <sys_id>9987dd001b1855503ea765bbe54bcb58</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-20 08:32:18</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>f88711401b1855503ea765bbe54bcb15</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="caixa-logo.svg" sys_id="9987dd001b1855503ea765bbe54bcb58">9987dd001b1855503ea765bbe54bcb58</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:32:17</sys_created_on>
+        <sys_id>d987dd001b1855503ea765bbe54bcb58</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4020</length>
+        <position>1</position>
+        <sys_attachment display_value="caixa-logo.svg" sys_id="9987dd001b1855503ea765bbe54bcb58">9987dd001b1855503ea765bbe54bcb58</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 08:32:17</sys_created_on>
+        <sys_id>5d87dd001b1855503ea765bbe54bcb58</sys_id>
+    </sys_attachment_doc>
+</record_update>

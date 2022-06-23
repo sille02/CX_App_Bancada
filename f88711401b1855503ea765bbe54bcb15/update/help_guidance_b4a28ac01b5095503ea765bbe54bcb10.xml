@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance">
+    <help_guidance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_route/>
+        <auto_launch_order/>
+        <checklist/>
+        <context>Ajuda da Cx OS</context>
+        <description/>
+        <eh_content display_value="$cimodel">1811f215c31d32007bf1bea192d3aefa</eh_content>
+        <name>Ajuda CX OS</name>
+        <order/>
+        <roles/>
+        <route_params/>
+        <snc_created>false</snc_created>
+        <status>published</status>
+        <sys_class_name>help_guidance</sys_class_name>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2022-06-20 11:41:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4a28ac01b5095503ea765bbe54bcb10</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ajuda CX OS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+        <sys_update_name>help_guidance_b4a28ac01b5095503ea765bbe54bcb10</sys_update_name>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2022-06-20 11:41:39</sys_updated_on>
+        <topic_id/>
+        <type>embedded_help</type>
+        <version>all</version>
+    </help_guidance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4a28ac01b5095503ea765bbe54bcb10"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b4a28ac01b5095503ea765bbe54bcb10</documentkey>
+        <fieldname>checklist</fieldname>
+        <language>pb</language>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2022-06-20 11:41:33</sys_created_on>
+        <sys_id>21d20ac01b5095503ea765bbe54bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2022-06-20 11:41:33</sys_updated_on>
+        <tablename>help_guidance</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b4a28ac01b5095503ea765bbe54bcb10</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2022-06-20 11:41:33</sys_created_on>
+        <sys_id>e5d20ac01b5095503ea765bbe54bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2022-06-20 11:41:33</sys_updated_on>
+        <tablename>help_guidance</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b4a28ac01b5095503ea765bbe54bcb10</documentkey>
+        <fieldname>name</fieldname>
+        <language>pb</language>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2022-06-20 11:41:33</sys_created_on>
+        <sys_id>f5d20ac01b5095503ea765bbe54bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2022-06-20 11:41:33</sys_updated_on>
+        <tablename>help_guidance</tablename>
+        <value>Ajuda CX OS</value>
+    </sys_translated_text>
+</record_update>

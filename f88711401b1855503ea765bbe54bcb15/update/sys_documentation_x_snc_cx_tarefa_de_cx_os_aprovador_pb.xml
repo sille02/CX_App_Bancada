@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="aprovador" label="Aprovador" language="pb" table="x_snc_cx_tarefa_de_cx_os">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>aprovador</element>
+            <help/>
+            <hint/>
+            <label>Aprovador</label>
+            <language>pb</language>
+            <name>x_snc_cx_tarefa_de_cx_os</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>leandro</sys_created_by>
+            <sys_created_on>2022-06-20 09:00:16</sys_created_on>
+            <sys_id>87eddd001b5855503ea765bbe54bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Aprovador</sys_name>
+            <sys_package display_value="CX Tarefa de OS" source="x_snc_cx_tarefa_de">f88711401b1855503ea765bbe54bcb15</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CX Tarefa de OS">f88711401b1855503ea765bbe54bcb15</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cx_tarefa_de_cx_os_aprovador_pb</sys_update_name>
+            <sys_updated_by>leandro</sys_updated_by>
+            <sys_updated_on>2022-06-20 09:00:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
